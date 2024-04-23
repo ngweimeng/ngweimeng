@@ -8,6 +8,6 @@
 
 ## About Me
 
-Work in Progress.You may view my Linkedin Profile [here.](https://www.linkedin.com/in/weimengng/)
+Work in Progress. You may view my Linkedin Profile [here.](https://www.linkedin.com/in/weimengng/)
 
 
