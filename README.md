@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Wei Meng 
+# 👋 Hi there! I'm WeiMeng 
 
 Work in Progress. You may view my Linkedin Profile  [here](https://www.linkedin.com/in/weimengng/)
 
