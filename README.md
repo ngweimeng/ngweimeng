@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Wei Meng 
 
-Work in Progress. You may view my [Linkedin Profile here] (https://www.linkedin.com/in/weimengng/)
+Work in Progress. You may view my Linkedin Profile  [here](https://www.linkedin.com/in/weimengng/)
 
 <!--
 **ngweimeng/ngweimeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
