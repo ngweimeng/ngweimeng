@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm Wei Meng 
 
-## Two Truths One Lie
+## About Me
+
+### Two Truths One Lie
 
 1. I navigated on a warship.
 2. I enjoy delving into data to solve problems.
 3. I can survive a day without coffee.
-
-## About Me
 
 Work in Progress. You may view my Linkedin Profile [here.](https://www.linkedin.com/in/weimengng/)
 
