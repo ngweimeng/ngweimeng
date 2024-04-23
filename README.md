@@ -8,7 +8,6 @@
 
 ## About Me
 
-Hi there! I'm Wei Meng! As an avid learner, tech aficionado, and unabashed coffee lover, I get a kick from solving meaningful problems with data and technology while having fun along the way. Beyond the classroom, I enjoy scuba diving (PADI-certified rescue diver), trail running, and engaging in spirited discussions about coffee brewing techniques (V60 pour over, no sugar please).
+Work in Progress.You may view my Linkedin Profile [here.](https://www.linkedin.com/in/weimengng/)
 
-As a firm believer in learning through hands-on practice, I frequently tinker on personal projects to reinforce my knowledge. You can find them below.
 
