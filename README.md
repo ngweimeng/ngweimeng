@@ -5,6 +5,6 @@
 - I enjoy delving into data to solve problems.
 - I can survive a day without coffee.
 
-Work in Progress. You may view my Linkedin Profile [here.](https://www.linkedin.com/in/weimengng/)
+Former Naval Officer. I tinker with Data projects in my free time. You may view my Linkedin Profile [here.](https://www.linkedin.com/in/weimengng/)
 
 
